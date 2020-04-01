@@ -1,0 +1,19 @@
+{
+  "name": "donotusethissort",
+  "version": "1.0.1",
+  "description": "A malicious sort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaseHaluptzok/evilSort.git"
+  },
+  "author": "Chase Haluptzok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaseHaluptzok/evilSort/issues"
+  },
+  "homepage": "https://github.com/ChaseHaluptzok/evilSort#readme"
+}
